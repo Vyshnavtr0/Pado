@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "625573440428",
+    "project_id": "mavoz-70c78",
+    "storage_bucket": "mavoz-70c78.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625573440428:android:06a61c7674b011692c2809",
+        "android_client_info": {
+          "package_name": "com.vyshnav.mavoz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "625573440428-moeplko4hu9oe4jjblem7vdbs13ptoco.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vyshnav.mavoz",
+            "certificate_hash": "759966f6a5335adf1f8b05799cd57f3b9ce80775"
+          }
+        },
+        {
+          "client_id": "625573440428-f40p8bs9vuv06emvpcbq922l6f1uo3eo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeJgO_ED7rq51rpZrs6IhtT5i8TI8f7QE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "625573440428-f40p8bs9vuv06emvpcbq922l6f1uo3eo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
