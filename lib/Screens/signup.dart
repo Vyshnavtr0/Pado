@@ -410,6 +410,8 @@ class _SignUpState extends State<SignUp> {
     userModel.uid = user.uid;
     userModel.name = name_controller.text;
     userModel.phone = "";
+    userModel.photo = "";
+    userModel.pro = "";
 
     await firebaseFirestore
         .collection("Users")

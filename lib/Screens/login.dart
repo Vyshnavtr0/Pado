@@ -504,6 +504,7 @@ class _LoginState extends State<Login> {
                               userModel.name = user.displayName;
                               userModel.photo = user.photoURL;
                               userModel.phone = "";
+                              userModel.pro = "";
 
                               await firebaseFirestore
                                   .collection("Users")
